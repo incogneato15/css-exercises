@@ -1,0 +1,11 @@
+.topbtn .btmbtn{
+	font-size: 28px;
+	font-family: 'Helvitica', 'Times New Roman', sans-serif;
+}
+.topbtn{
+	background-color: black;
+	color: white;
+}
+.btmbtn{
+	background-color: yellow;
+}
